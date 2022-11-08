@@ -1,6 +1,7 @@
 .idea
 target
 reports
+report
 
 # Compiled class file
 *.class
